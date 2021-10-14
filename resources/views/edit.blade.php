@@ -45,6 +45,7 @@
                 <label for="">Foto Ikan</label>
                 <input value="{{$cupang->foto_ikan}}" type="text" class="form-control" name="foto_ikan">
             </div>
+            //!Coba edit
             <button type="submit" id="btn-submit" class="btn btn-primary mt-3">Submit</button>
         </form>
     </div>
